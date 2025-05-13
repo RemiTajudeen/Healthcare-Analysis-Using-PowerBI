@@ -1,5 +1,5 @@
-# US-National-Healthcare-Organization
-This repository contains the Power BI dashboard and documentation for the US National Healthcare Organization project. The dashboard provides comprehensive insights into patient demographics, medical conditions, insurance coverage, and treatment cost.
+# Health Care Analysis Using PowerBI
+This repository contains the Power BI dashboard and the US National Healthcare Organization project documentation. The dashboard provides comprehensive insights into patient demographics, medical conditions, insurance coverage, and treatment cost.
 
 ---
 
@@ -55,7 +55,7 @@ The project utilized a dataset from Onyx data containing information on 55,500 p
 
 ---
 
-## 📈 Key Insights
+Key Insights
 
 * The majority of patients fall within the 50–59 age group.
 * Diabetes and hypertension are the most prevalent medical conditions.
@@ -72,9 +72,11 @@ Based on the analysis and insights, the following recommendations were made for 
 * Evaluate resource allocation to address the high volume of elective and urgent admissions.
 * Consider expanding insurance partnerships to diversify coverage options for patients.
 
+![S](https://github.com/user-attachments/assets/9f8059d8-71a8-4e96-88e1-8bdf5326056b)
+![s1](https://github.com/user-attachments/assets/418b9f5e-9c2c-4184-9acb-604cedf82f52)
 
-![s1](https://github.com/user-attachments/assets/0c9cb82d-ae33-4b6c-9346-44319c3ec5e1)
-![S](https://github.com/user-attachments/assets/f6612b58-52c5-4c7e-b116-f88eeb1f44ff)
+
+
 
 
 
