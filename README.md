@@ -36,19 +36,6 @@ The project was executed using Microsoft Power BI, following these steps:
 
 ---
 
-# Dashboard Features
-
-* **Patient Demographics**: Age distribution, gender breakdown, and blood type frequencies.
-* **Medical Conditions**: Top conditions by patient count and average length of stay.
-* **Insurance Coverage**: Distribution of patients across various insurance providers.
-* **Test Results**: Proportions of normal, abnormal, and inconclusive test outcomes.
-* **Admission Types**: Counts and trends for elective, emergency, and urgent admissions.
-* **Geographic Distribution**: Patient counts by state.
-* **Medication Usage**: Most commonly prescribed medications and their associated conditions.
-* **Hospital Performance**: Comparative analysis of hospitals based on patient volume and treatment outcomes.
-
----
-
 # Dataset
 
 The project utilized a dataset from Onyx data containing information on 55,500 patients, organized in 17 columns. These columns include various information, including: Patient age, gender, blood type, medical conditions, admission type, test results, and insurance providers
